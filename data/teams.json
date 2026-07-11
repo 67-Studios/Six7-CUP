@@ -45,16 +45,16 @@
     ]
   },
   {
-    "name": "Frontline Racing",
+    "name": "MCLAREN",
     "drivers": [
       {
-        "number": 7,
-        "name": "Erik Solheim",
+        "number": 0,
+        "name": "-VACIO-",
         "image": "img/club/p-1.jpg"
       },
       {
-        "number": 8,
-        "name": "Camila Ortiz",
+        "number": 0,
+        "name": "-VACIO-",
         "image": "img/club/p-2.jpg"
       }
     ]
@@ -63,8 +63,73 @@
     "name": "Cadillac Racing",
     "drivers": [
       {
-        "number": 45,
-        "name": "El Senote",
+        "number": 0,
+        "name": "-VACIO-",
+        "image": "img/club/p-1.jpg"
+      },
+      {
+        "number": 0,
+        "name": "-VACIO-",
+        "image": "img/club/p-1.jpg"
+      }
+    ]
+  },
+  {
+    "name": "ALPINE",
+    "drivers": [
+      {
+        "number": 0,
+        "name": "-VACIO-",
+        "image": "img/club/p-1.jpg"
+      }
+    ]
+  },
+  {
+    "name": "RACING BULLS",
+    "drivers": [
+      {
+        "number": 0,
+        "name": "-VACIO-",
+        "image": "img/club/p-1.jpg"
+      }
+    ]
+  },
+  {
+    "name": "HAAS",
+    "drivers": [
+      {
+        "number": 0,
+        "name": "-VACIO-",
+        "image": "img/club/p-1.jpg"
+      }
+    ]
+  },
+  {
+    "name": "WILLIAMS",
+    "drivers": [
+      {
+        "number": 0,
+        "name": "-VACIO-",
+        "image": "img/club/p-1.jpg"
+      }
+    ]
+  },
+  {
+    "name": "AUDI",
+    "drivers": [
+      {
+        "number": 0,
+        "name": "-VACIO-",
+        "image": "img/club/p-1.jpg"
+      }
+    ]
+  },
+  {
+    "name": "ASTON MARTIN",
+    "drivers": [
+      {
+        "number": "",
+        "name": "-VACIO-",
         "image": "img/club/p-1.jpg"
       }
     ]
