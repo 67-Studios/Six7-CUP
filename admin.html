@@ -445,9 +445,8 @@ document.getElementById("btnLogout").addEventListener("click", function(){
     setupScreen.classList.remove("hidden");
 });
 
-if(config && config.owner && config.repo && config.token){
-    enterDashboard();
-}
+/* La entrada automática al dashboard (si ya hay config guardada) se dispara
+   al final del script, una vez que reloadPanel y demás ya existen. Ver abajo. */
 
 /* ---------------- Sidebar navigation ---------------- */
 var sidebarButtons = document.querySelectorAll(".sidebar button[data-panel]");
@@ -697,6 +696,11 @@ window.savePanel = function(panel){
         showStatus("error", "No se pudo guardar: " + err.message);
     });
 };
+
+/* ---------------- Auto-entrada si ya hay una config guardada ---------------- */
+if(config && config.owner && config.repo && config.token){
+    enterDashboard();
+}
 
 })();
 </script>
