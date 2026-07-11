@@ -1,7 +1,90 @@
 [
-  { "pos": 1, "team": "Six7 Apex Racing", "played": 22, "wins": 13, "losses": 5, "points": 412 },
-  { "pos": 2, "team": "Nocturna GP", "played": 22, "wins": 10, "losses": 6, "points": 378 },
-  { "pos": 3, "team": "Vertex Motorsport", "played": 22, "wins": 7, "losses": 8, "points": 301 },
-  { "pos": 4, "team": "Frontline Racing", "played": 22, "wins": 4, "losses": 10, "points": 240 },
-  { "pos": 5, "team": "Ignition Racing Team", "played": 22, "wins": 2, "losses": 12, "points": 176 }
+  {
+    "pos": 1,
+    "team": "RED BULL",
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "points": 0
+  },
+  {
+    "pos": 2,
+    "team": "MERCEDES",
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "points": 0
+  },
+  {
+    "pos": 3,
+    "team": "FERRARI",
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "points": 0
+  },
+  {
+    "pos": 4,
+    "team": "MCLAREN",
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "points": 0
+  },
+  {
+    "pos": 5,
+    "team": "ALPINE",
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "points": 0
+  },
+  {
+    "pos": 6,
+    "team": "CADILLAC",
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "points": 0
+  },
+  {
+    "pos": 7,
+    "team": "ASTON MARTIN",
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "points": 0
+  },
+  {
+    "pos": 8,
+    "team": "AUDI",
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "points": 0
+  },
+  {
+    "pos": 9,
+    "team": "HAAS",
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "points": 0
+  },
+  {
+    "pos": 10,
+    "team": "WILLIAMS",
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "points": 0
+  },
+  {
+    "pos": 11,
+    "team": "RACING BULLS",
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "points": 0
+  }
 ]
