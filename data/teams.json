@@ -1,45 +1,45 @@
 [
   {
-    "name": "Six7 Apex Racing",
+    "name": "RED BULL",
     "drivers": [
       {
-        "number": 1,
-        "name": "Diego Salgado",
+        "number": 0,
+        "name": "-VACIO-",
         "image": "img/club/p-1.jpg"
       },
       {
-        "number": 5,
-        "name": "Ana Lucía Ponce",
+        "number": 0,
+        "name": "-VACIO-",
         "image": "img/club/p-2.jpg"
       }
     ]
   },
   {
-    "name": "Nocturna GP",
+    "name": "MERCEDES",
     "drivers": [
       {
-        "number": 2,
-        "name": "Valentina Roux",
+        "number": 0,
+        "name": "-VACIO-",
         "image": "img/club/p-3.jpg"
       },
       {
-        "number": 6,
-        "name": "Bruno Castellano",
+        "number": 0,
+        "name": "-VACIO-",
         "image": "img/club/p-4.jpg"
       }
     ]
   },
   {
-    "name": "Vertex Motorsport",
+    "name": "FERRARI",
     "drivers": [
       {
-        "number": 3,
-        "name": "Kenji Arata",
+        "number": 0,
+        "name": "-VACIO-",
         "image": "img/club/p-5.jpg"
       },
       {
-        "number": 4,
-        "name": "Mateo Ferrer",
+        "number": 0,
+        "name": "-VACIO-",
         "image": "img/club/p-6.jpg"
       }
     ]
