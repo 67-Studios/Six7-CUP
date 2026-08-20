@@ -1,13 +1,13 @@
 [
   {
     "pos": 1,
-    "name": "-VACIO-",
+    "name": "Edy",
     "team": "RED BULL",
     "points": 0
   },
   {
     "pos": 2,
-    "name": "-VACIO-",
+    "name": "ChecoPeligro",
     "team": "REDBULL",
     "points": 0
   },
@@ -25,25 +25,25 @@
   },
   {
     "pos": 5,
-    "name": "-VACIO-",
+    "name": "Onichan",
     "team": "MERCEDES",
     "points": 0
   },
   {
     "pos": 6,
-    "name": "-VACIO-",
+    "name": "Josse",
     "team": "MERCEDES",
     "points": 0
   },
   {
     "pos": 7,
-    "name": "-VACIO-",
+    "name": "Javivi",
     "team": "FERRARI",
     "points": 0
   },
   {
     "pos": 8,
-    "name": "-VACIO-",
+    "name": "Jorge Alba",
     "team": "FERRARI",
     "points": 0
   },
@@ -61,13 +61,13 @@
   },
   {
     "pos": 11,
-    "name": "-VACIO-",
+    "name": "Huasteco",
     "team": "AUDI",
     "points": 0
   },
   {
     "pos": 12,
-    "name": "-VACIO-",
+    "name": "Valeria",
     "team": "AUDI",
     "points": 0
   },
@@ -85,19 +85,19 @@
   },
   {
     "pos": 15,
-    "name": "-VACIO-",
+    "name": "Curlalex",
     "team": "RACING BULLS",
     "points": 0
   },
   {
     "pos": 16,
-    "name": "-VACIO-",
+    "name": "Jorge Navarro",
     "team": "HAAS",
     "points": 0
   },
   {
     "pos": 17,
-    "name": "-VACIO-",
+    "name": "Pandora",
     "team": "HAAS",
     "points": 0
   },
@@ -115,19 +115,19 @@
   },
   {
     "pos": 20,
-    "name": "-VACIO-",
+    "name": "Cheche",
     "team": "CADILLAC",
     "points": 0
   },
   {
     "pos": 21,
-    "name": "-VACIO-",
+    "name": "Chris",
     "team": "CADILLAC",
     "points": 0
   },
   {
-    "pos": 22,
-    "name": "-VACIO-",
+    "pos": 0,
+    "name": "Spadi",
     "team": "RACING BULLS",
     "points": 0
   }
