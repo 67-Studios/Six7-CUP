@@ -9,7 +9,7 @@
     "pos": 2,
     "name": "ChecoPeligro",
     "team": "REDBULL",
-    "points": 0
+    "points": 24
   },
   {
     "pos": 3,
@@ -21,7 +21,7 @@
     "pos": 5,
     "name": "Onichan",
     "team": "MERCEDES",
-    "points": 0
+    "points": 22
   },
   {
     "pos": 6,
@@ -33,13 +33,13 @@
     "pos": 7,
     "name": "Javivi",
     "team": "FERRARI",
-    "points": 0
+    "points": 25
   },
   {
     "pos": 8,
     "name": "Jorge Alba",
     "team": "FERRARI",
-    "points": 0
+    "points": 8
   },
   {
     "pos": 11,
@@ -75,18 +75,24 @@
     "pos": 20,
     "name": "Cheche",
     "team": "CADILLAC",
-    "points": 0
+    "points": 33
   },
   {
     "pos": 21,
     "name": "Chris",
     "team": "CADILLAC",
-    "points": 0
+    "points": 21
   },
   {
     "pos": 0,
     "name": "Spadi",
     "team": "RACING BULLS",
-    "points": 0
+    "points": 33
+  },
+  {
+    "pos": 0,
+    "name": "EdwinStrong",
+    "team": "williams ",
+    "points": 20
   }
 ]
